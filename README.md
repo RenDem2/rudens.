@@ -1,2 +1,2 @@
 # rudens.
-GUSTAVS-kā pa jūru.
+Gustavs-kā pa jūru.
