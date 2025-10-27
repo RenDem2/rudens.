@@ -1,2 +1,2 @@
 # rudens.
-pirmais pašas repozitorijs.
+GUSTAVS-kā pa jūru.
